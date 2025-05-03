@@ -1,7 +1,6 @@
 # Que_perdio
 Curso githubt scesi 1_2025. Here are the winners
-# cursopython with Vetdy03
-# Comandos basicos del git
+# Comandos basicos del git by vetd703
 - Agregar al git todo muchas veces se debe ubicar en el directotio principal
 ```makdown
 git add .
