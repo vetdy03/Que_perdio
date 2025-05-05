@@ -1,70 +1,22 @@
-# Que_perdio
-Curso githubt scesi 1_2025. Here are the winners
-# Comandos basicos del git by vetd703
-- Agregar al git todo muchas veces se debe ubicar en el directotio principal
-```makdown
-git add .
-```
-- Hacer commit 
-```makdown
-git commit -m "comentario que quieres ref."
-```
-- hacer un push al repositorio remoto osea enviarlo `ya sea main o dev`
-```makdown
-git push -u origin main
-```
-- Traer todos los cambios del remoto al local
-```makdown
-git pull -u origin main
-```
-- Guardar tus cambios actuales (por si acaso)
-```makdown
-git stash
-```
-- Aplicar los cambios guardados
-```makdown
-git stash pop
-```
+# Landing Page
 
-# comandos para mergear desde consola
-Paso 1 Clone el repositorio o actualice su repositorio local con los `últimos cambios.`
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
-```makdown
-git pull origen main
-```
-Paso 2 `Cambie a la rama base` de la solicitud de extracción.
-```makdown
-git checkout main
-```
-Paso 3 Fusiona la rama de la cabeza con la rama base.
-```makdown
-git merge dev
-```
-Paso 4 Empuje los cambios.
-```makdown
-- git push -u origin main
-```
-# como restaurar un git add
-```makdown
-git restore
-```
-# rama local main está desactualizada respecto a la rama remota main
-- Actualizar la rama local antes de hacer push Esto traerá los cambios remotos y aplicará tus cambios encima
-```makdown
-git pull origin main --rebase
-```
--  Forzar el push Sobrescribirá el remoto, si estas seguro
-```makdown
-git push -f origin main
-```
-- 
-- 
-```makdown
+## 🚀 Herramientas usadas
+Landing Page desarrollado en HTML, CSS y Javascript
 
-```
-- 
-```makdown
+- **HTML5**: Estructura del contenido de la página.
+- **CSS3**: Diseño y estilo de la página.
+- **JavaScript**: Funcionalidad e interactividad de la página.
 
-```
-- 
+---
 
+## 🔧 Instalación
+
+Sigue estos pasos para ejecutar el proyecto en tu máquina local.
+
+1. **Clonar el repositorio**:
+
+   ```bash
+   git clone https://github.com/minoveaz/landing-page.git
+   cd landing-page
