@@ -19,4 +19,8 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
    ```bash
    git clone https://github.com/minoveaz/landing-page.git
+   ```
+      ```bash
    cd landing-page
+   ```
+   
