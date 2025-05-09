@@ -1,0 +1,18 @@
+[
+    {
+      "icon": "icon-refresh",
+      "titulo": "Velocidad",
+      "descripcion": "Carga rápida y rendimiento optimizado."
+    },
+    {
+      "icon": "icon-lock",
+      "titulo": "Seguridad",
+      "descripcion": "Protección avanzada de tus datos."
+    },
+    {
+      "icon": "icon-cog",
+      "titulo": "Personalización",
+      "descripcion": "Configura tu experiencia como quieras."
+    }
+  ]
+  
